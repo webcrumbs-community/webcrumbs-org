@@ -2,6 +2,8 @@
 
 Welcome to the official repository for the Webcrumbs organization's website. This serves as the central place for all information, documentation, and updates related to Webcrumbs.
 
+If you find this project interesting or useful, please consider [giving it a star to the **main repo**](https://github.com/webcrumbs-community/webcrumbs)  ⭐️. Your support helps us make Webcrumbs better for everyone.
+
 ## Development
 
 This repository contains the source code for our official website. For local development guidelines and deployment instructions, please refer to our [Development Guide](./DEVELOPMENT.md).
